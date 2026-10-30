@@ -83,7 +83,8 @@ END
 
 ```
 ## OUTPUT(Descending order)
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/4acbac13-c35a-412d-a031-0b7556f6bc44" />
+<img width="1523" height="717" alt="Screenshot 2026-10-21 105006" src="https://github.com/user-attachments/assets/fbb3c5d2-d9ea-4ebb-9ca0-d46ba1f2aa2f" />
+
 
 
 
